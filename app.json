@@ -1,5 +1,5 @@
 {
-    "name": "𝘀𝗼𝘂𝗿𝗰𝗲 alsh سورس عـــلــش ميوزك",
+    "name": "𝘀𝗼𝘂𝗿𝗰𝗲 alsh سورس علش ميوزك",
     "description": "تابع قناة لمعرفة تحديثات @ghost022",
     "logo": "https://telegra.ph/file/4cbb70d2cbcef89687188.jpg",
     "keywords": [
@@ -26,17 +26,17 @@
         "BOT_TOKEN": {
             "description": "قم بوضع توكن البوت الخاص بك هنا",
             "required": true,
-            "value": 
+            "value": “”
         },
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": 
+            "value": “”
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": 
+            "value": “”
         },
         "SESSION_NAME": {
             "description": "قم بوضع كود بايروكرام هنا",
@@ -45,42 +45,42 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": 
+            "value": “”
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": 
+            "value": “”
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": 
+            "value": “”
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": 
+            "value": “”
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا ",
             "required": true,
-            "value": 
+            "value": “”
         },
         "DEV_PHOTO": {
             "description": "ضع لينك صورة حساب مطور البوت من هنا",
             "required": true,
-            "value": 
-        }
+            "value": “”
+        },
         "DEV_NAME": {
             "description": "ضع اسم حساب التليجرام الخاص بالمطور",
             "required": true,
-            "value": 
+            "value": “”
         },
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": 
+            "value": “”
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
