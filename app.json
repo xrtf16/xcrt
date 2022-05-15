@@ -26,61 +26,61 @@
         "BOT_TOKEN": {
             "description": "قم بوضع توكن البوت الخاص بك هنا",
             "required": true,
-            "value": "5086017506:AAH0kLHo57wptdpmDagqUMays_tLAULjUw4"
+            "value": 
         },
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "Joker7x_bot"
+            "value": 
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "ABNADLlB"
+            "value": 
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "قم بوضع كود بايروكرام هنا",
             "required": true
         },
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "1939538780"
+            "value": 
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "faqek"
+            "value": 
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "VFF35"
+            "value": 
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "QABNADLIB"
+            "value": 
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا ",
             "required": true,
-            "value": "https://telegra.ph/file/4cbb70d2cbcef89687188.jpg"
+            "value": 
         },
         "DEV_PHOTO": {
             "description": "ضع لينك صورة حساب مطور البوت من هنا",
             "required": true,
-            "value": "https://telegra.ph/file/06517a71ee7344b00faa6.jpg"
-        },
+            "value": 
+        }
         "DEV_NAME": {
             "description": "ضع اسم حساب التليجرام الخاص بالمطور",
             "required": true,
-            "value": "𝐒𝐈𝐅 𝐂𝐎𝐁𝐑𝐀" 
+            "value": 
         },
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": "𝐌𝗨𝐒𝐈𝐂 𝐂𝐎𝐁𝐑𝐀"
+            "value": 
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
