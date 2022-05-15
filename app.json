@@ -1,6 +1,6 @@
 {
-    "name": "𝘀𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗯𝗿𝗮 سورس كوبرا ميوزك",
-    "description": "تابع قناة لمعرفة تحديثات @VFF35",
+    "name": "𝘀𝗼𝘂𝗿𝗰𝗲 alsh سورس عـــلــش ميوزك",
+    "description": "تابع قناة لمعرفة تحديثات @ghost022",
     "logo": "https://telegra.ph/file/4cbb70d2cbcef89687188.jpg",
     "keywords": [
         "py-tgcalls",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/VFF35",
+    "website": "https://t.me/ghost022",
     "repository": "https://github.com/cobarsyr/-SIF",
-    "success_url": "https://t.me/QABNADLIB",
+    "success_url": "https://t.me/ghost022",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
